@@ -1,1 +1,1 @@
-# algorithmic-problems
+Repository containing implementations for common algorithmic problems.

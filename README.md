@@ -5,4 +5,4 @@ Most of them are common LeetCode problems.
 
 ## Problems/algorithms
 
-1. **Fizz Buzz**
+- Fizz Buzz

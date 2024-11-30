@@ -1,12 +1,10 @@
-package main;
-
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class FizzBuzzMain {
+class SolutionMapFunctional {
 
     private static final Map<Predicate<Integer>, String> RULES;
 
@@ -16,10 +14,6 @@ public class FizzBuzzMain {
         RULES.put(createRulePredicate(3), "FIZZ");
         RULES.put(createRulePredicate(5), "BUZZ");
         RULES.put(createRulePredicate(7), "BAZZ");
-    }
-
-    public static void main(String[] args) {
-        System.out.println(fizzBuzzBazzSolver(105));
     }
 
     private static String fizzBuzzBazzSolver(int limit) {

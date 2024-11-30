@@ -5,4 +5,7 @@ Most of them are common LeetCode problems.
 
 ## Problems/algorithms
 
-- Fizz Buzz
+- Fizz Buzz Bazz
+- Merge sorted arrays
+- Remove duplicates
+- Remove element

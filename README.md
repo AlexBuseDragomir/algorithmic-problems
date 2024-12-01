@@ -10,3 +10,4 @@ Most of them are common LeetCode problems.
 - Remove element
 - Remove duplicates I
 - Remove duplicates II
+- Majority element

@@ -7,5 +7,6 @@ Most of them are common LeetCode problems.
 
 - Fizz Buzz Bazz
 - Merge sorted arrays
-- Remove duplicates
 - Remove element
+- Remove duplicates I
+- Remove duplicates II

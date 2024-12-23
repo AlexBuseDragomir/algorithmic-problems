@@ -1,5 +1,7 @@
 class SolutionBinarySearch {
 
+    private static final int INTEGER_MAX_SQRT = 46340;
+
     public int mySqrt(int x) {
         if (x == 0 || x == 1) {
             return x;
@@ -10,11 +12,11 @@ class SolutionBinarySearch {
         }
 
         if (x == Integer.MAX_VALUE) {
-            return 46340;
+            return INTEGER_MAX_SQRT;
         }
 
         int left = 1;
-        int right = Math.min(x / 2 + 1, 46341);
+        int right = Math.min(x / 2 + 1, INTEGER_MAX_SQRT + 1);
         int middle = (left + right) / 2;
 
         while (true) {

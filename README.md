@@ -1,10 +1,10 @@
 # Algorithmic problems
 
-Repository containing implementations for common algorithmic problems, preparation for technical interviews.  
+This repository contains implementations of common algorithmic problems, aimed at preparing for technical interviews.
 
-These are Leetcode problems on which I have personally worked; they can also be found on my [LeetCode account](https://leetcode.com/u/AlexandruBuseDragomir/).  
- 
-Some solutions are not optimal, but trying all possibilities of solving certain problems, in order to compare the time and space complexities.  
+The solutions included here are problems I have personally worked on. You can also find them on my [LeetCode account](https://leetcode.com/u/AlexandruBuseDragomir/).
+
+While some solutions may not be optimal, exploring different approaches helps compare their time and space complexities.
 
 ## Full list of problems
 

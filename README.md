@@ -1,13 +1,9 @@
 # Algorithmic problems
 
 Repository containing implementations for common algorithmic problems.  
-Most of them are common LeetCode problems.
+Implementations tried on my personal Leetcode account.
+Some solutions are not optimal, but trying all possibilities of solving certain problems, in order to compare the time and space complexities.  
 
-## Problems/algorithms
+## Full list of problems
 
-- Fizz Buzz Bazz
-- Merge sorted arrays
-- Remove element
-- Remove duplicates I
-- Remove duplicates II
-- Majority element
+

@@ -36,6 +36,7 @@ class SolutionBinarySearch {
     }
 
     private boolean isMatch(int middle, int x) {
-        return middle * middle <= x && x < Math.min((long) (middle + 1) * (middle + 1), Integer.MAX_VALUE);
+        return middle * middle <= x
+            && x < Math.min((long) (middle + 1) * (middle + 1), Integer.MAX_VALUE);
     }
 }

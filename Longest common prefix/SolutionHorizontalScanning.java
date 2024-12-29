@@ -1,4 +1,4 @@
-class SolutionIterativeConcise {
+class SolutionHorizontalScanning {
 
     public String longestCommonPrefix(String[] strs) {
         if (strs.length == 1) {

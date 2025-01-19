@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-class SolutionBreadthFirstSearch {
+class SolutionIterative {
 
     public String breadthFirstSearch(TreeNode root) {
         if (root == null) {

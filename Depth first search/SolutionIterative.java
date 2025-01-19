@@ -1,7 +1,7 @@
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-class SolutionDepthFirstSearch {
+class SolutionIterative {
 
     public String depthFirstSearch(TreeNode root) {
         if (root == null) {

@@ -6,6 +6,4 @@ The solutions included here are problems I have personally worked on. You can al
 
 While some solutions may not be optimal, exploring different approaches helps compare their time and space complexities.
 
-## Full list of problems
-
 
